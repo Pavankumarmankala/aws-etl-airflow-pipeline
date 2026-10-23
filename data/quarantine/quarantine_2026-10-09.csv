@@ -1,0 +1,71 @@
+order_id,customer_id,product_id,quantity,amount,order_timestamp,channel,status,quarantine_reason
+ORD-20261009-01912,CUST-00723,P003,1,-16.86,2026-10-09 12:02:32,web,shipped,negative_amount
+ORD-20261009-02296,CUST-00161,P002,2,-253.03,2026-10-09 07:42:36,mobile,completed,negative_amount
+ORD-20261009-04353,CUST-01845,P001,1,-87.71,2026-10-09 16:58:21,mobile,completed,negative_amount
+ORD-20261009-03649,,P003,4,72.82,2026-10-09 10:10:34,web,returned,null_customer_id
+ORD-20261009-00158,CUST-01903,P004,1,-41.53,2026-10-09 16:46:13,mobile,completed,negative_amount
+ORD-20261009-01446,,P002,2,263.17,2026-10-09 19:07:16,web,completed,null_customer_id
+ORD-20261009-03708,CUST-02751,P007,4,-647.41,2026-10-09 18:56:07,web,completed,negative_amount
+ORD-20261009-04974,,P010,1,269.44,2026-10-09 04:21:20,marketplace,completed,null_customer_id
+ORD-20261009-02495,CUST-01016,P007,3,435.71,2026-10-09 05:19:26,mobile,completed,duplicate_order_id
+ORD-20261009-00836,,P008,3,179.14,2026-10-09 05:33:37,web,returned,null_customer_id
+ORD-20261009-00477,CUST-02733,P004,1,40.14,,web,completed,bad_timestamp
+ORD-20261009-02464,,P005,4,170.38,2026-10-09 18:54:21,mobile,returned,null_customer_id
+ORD-20261009-02878,,P001,4,370.23,2026-10-09 11:38:23,web,completed,null_customer_id
+ORD-20261009-01424,,P010,3,760.98,2026-10-09 16:41:38,web,completed,null_customer_id
+ORD-20261009-03904,CUST-02066,P011,4,306.91,32/13/2026 99:99,marketplace,completed,bad_timestamp
+ORD-20261009-01924,CUST-01669,P004,1,-36.87,2026-10-09 01:15:22,web,completed,negative_amount
+ORD-20261009-00398,CUST-00477,P001,4,339.27,2026-10-09 10:16:42,mobile,completed,duplicate_order_id
+ORD-20261009-01800,CUST-00181,P009,4,-1878.38,2026-10-09 17:35:01,web,completed,negative_amount
+ORD-20261009-04362,,P004,2,73.58,2026-10-09 18:44:31,web,completed,null_customer_id
+ORD-20261009-02185,CUST-02266,P011,2,166.58,2026-10-09 19:38:24,web,shipped,duplicate_order_id
+ORD-20261009-00444,CUST-01785,P007,2,289.22,,web,shipped,bad_timestamp
+ORD-20261009-01779,CUST-01791,P011,4,-348.2,2026-10-09 01:46:15,mobile,returned,negative_amount
+ORD-20261009-01033,CUST-02361,P009,3,1554.11,2026-10-09 06:50:39,mobile,completed,duplicate_order_id
+ORD-20261009-03440,CUST-02992,P001,1,96.85,2026-10-09 20:25:17,mobile,completed,duplicate_order_id
+ORD-20261009-04798,CUST-00638,P010,2,534.31,2026-10-09 11:03:22,mobile,completed,duplicate_order_id
+ORD-20261009-00038,,P001,1,91.01,2026-10-09 18:08:01,mobile,completed,null_customer_id
+ORD-20261009-00497,CUST-00506,P007,3,488.52,,web,shipped,bad_timestamp
+ORD-20261009-01211,CUST-02065,P006,1,54.65,2026-10-09 13:28:44,marketplace,completed,duplicate_order_id
+ORD-20261009-02750,CUST-02599,P001,1,-82.74,2026-10-09 23:29:48,web,returned,negative_amount
+ORD-20261009-02267,CUST-00722,P002,3,395.29,2026-10-09 08:47:13,mobile,shipped,duplicate_order_id
+ORD-20261009-03599,,P009,2,972.14,2026-10-09 10:37:14,web,completed,null_customer_id
+ORD-20261009-03383,CUST-01282,P003,3,-55.44,2026-10-09 05:10:36,mobile,returned,negative_amount
+ORD-20261009-03508,CUST-00699,P003,1,19.69,2026-10-09 14:40:13,mobile,completed,duplicate_order_id
+ORD-20261009-03426,,P011,3,257.63,2026-10-09 08:25:13,web,completed,null_customer_id
+ORD-20261009-03331,CUST-02163,P002,1,123.93,2026-10-09 09:25:19,mobile,completed,duplicate_order_id
+ORD-20261009-00930,,P008,2,101.57,2026-10-09 03:01:19,web,completed,null_customer_id
+ORD-20261009-02968,CUST-02891,P011,2,-165.56,2026-10-09 19:47:50,marketplace,completed,negative_amount
+ORD-20261009-04137,CUST-02138,P007,4,649.23,,web,completed,bad_timestamp
+ORD-20261009-00688,CUST-01588,P009,1,484.0,,web,completed,bad_timestamp
+ORD-20261009-03818,CUST-01484,P010,3,710.37,2026-10-09 12:42:10,web,completed,duplicate_order_id
+ORD-20261009-02326,,P011,4,324.25,2026-10-09 16:10:20,web,completed,null_customer_id
+ORD-20261009-01225,CUST-02213,P002,1,120.26,32/13/2026 99:99,mobile,returned,bad_timestamp
+ORD-20261009-01937,,P010,4,924.53,2026-10-09 04:52:00,web,completed,null_customer_id
+ORD-20261009-00497,CUST-00506,P007,3,488.52,,web,shipped,duplicate_order_id
+ORD-20261009-03420,CUST-00490,P006,3,-174.99,2026-10-09 01:17:34,web,completed,negative_amount
+ORD-20261009-02928,CUST-02682,P009,1,450.74,2026-10-09 13:35:04,web,completed,duplicate_order_id
+ORD-20261009-02987,,P004,2,85.38,2026-10-09 16:35:16,web,returned,null_customer_id
+ORD-20261009-04511,CUST-01860,P009,1,-493.43,2026-10-09 02:06:34,web,completed,negative_amount
+ORD-20261009-04976,CUST-00955,P002,1,118.57,2026-10-09 13:29:19,web,shipped,duplicate_order_id
+ORD-20261009-04199,CUST-01900,P001,1,-92.72,2026-10-09 23:47:14,mobile,completed,negative_amount
+ORD-20261009-01432,CUST-02497,P005,1,41.61,2026-10-09 07:26:08,mobile,returned,duplicate_order_id
+ORD-20261009-04245,CUST-02624,P011,2,171.38,32/13/2026 99:99,web,completed,bad_timestamp
+ORD-20261009-00873,CUST-01297,P002,4,466.59,2026-10-09 18:54:09,marketplace,completed,duplicate_order_id
+ORD-20261009-00099,CUST-00373,P004,1,39.73,2026-10-09 08:44:07,mobile,returned,duplicate_order_id
+ORD-20261009-01260,CUST-03000,P003,4,77.3,2026-10-09 11:33:06,marketplace,completed,duplicate_order_id
+ORD-20261009-04488,CUST-00724,P001,2,$175.55,,web,returned,bad_timestamp
+ORD-20261009-00997,CUST-02071,P003,1,19.45,not-a-timestamp,mobile,completed,bad_timestamp
+ORD-20261009-02639,CUST-02511,P012,2,135.05,2026-10-09 04:10:54,web,returned,duplicate_order_id
+ORD-20261009-01832,CUST-00845,P005,1,48.67,2026-10-09 13:47:18,mobile,completed,duplicate_order_id
+ORD-20261009-03204,,P012,1,72.86,2026-10-09 06:27:18,mobile,completed,null_customer_id
+ORD-20261009-04437,,P001,2,192.61,2026-10-09 13:15:16,web,completed,null_customer_id
+ORD-20261009-04363,CUST-00356,P001,4,328.42,2026-10-09 07:29:45,web,completed,duplicate_order_id
+ORD-20261009-02246,CUST-02796,P008,3,-159.55,2026-10-09 16:01:58,web,returned,negative_amount
+ORD-20261009-02485,CUST-00314,P004,4,156.3,2026-10-09 14:09:38,mobile,completed,duplicate_order_id
+ORD-20261009-01602,CUST-01581,P005,3,121.8,2026-10-09 00:05:48,marketplace,returned,duplicate_order_id
+ORD-20261009-02177,,P006,1,60.98,2026-10-09 07:05:03,marketplace,completed,null_customer_id
+ORD-20261009-01208,CUST-01990,P005,4,177.85,2026-10-09 06:20:11,mobile,shipped,duplicate_order_id
+ORD-20261009-04268,CUST-00016,P005,2,89.53,2026-10-09 00:16:47,web,completed,duplicate_order_id
+ORD-20261009-01950,,P003,3,59.02,2026-10-09 13:15:45,web,returned,null_customer_id
+ORD-20261009-01443,,P008,4,209.92,2026-10-09 14:52:32,web,completed,null_customer_id

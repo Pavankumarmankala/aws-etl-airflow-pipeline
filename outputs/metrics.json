@@ -1,0 +1,44 @@
+{
+  "days_processed": 14,
+  "total_rows_in": 70350,
+  "rows_loaded_fact_orders": 69370,
+  "rows_loaded_across_14_days_before_retry_demo": 69370,
+  "rows_quarantined": 980,
+  "quarantine_by_issue": {
+    "duplicate_order_id": 350,
+    "null_customer_id": 280,
+    "negative_amount": 210,
+    "bad_timestamp": 140
+  },
+  "injected_issues_ground_truth": {
+    "duplicate_order_id": 350,
+    "null_customer_id": 280,
+    "negative_amount": 210,
+    "bad_timestamp": 140,
+    "string_amount": 560
+  },
+  "string_amounts_fixed_in_transform": 553,
+  "dimension_rows": {
+    "dim_customer": 3000,
+    "dim_product": 12,
+    "dim_date": 14
+  },
+  "idempotency_check": {
+    "date": "2026-10-05",
+    "fact_rows_before_rerun": 4955,
+    "fact_rows_after_rerun": 4955,
+    "passed": true
+  },
+  "failure_retry_check": {
+    "date": "2026-10-12",
+    "fact_rows_from_earlier_good_run": 4955,
+    "first_attempt_failed": true,
+    "failed_at_task": "extract",
+    "error": "landing file unreadable: orders_2026-10-12.csv: 'utf-8' codec can't decode byte 0xff in position 19: invalid start byte",
+    "rows_added_by_corrupt_attempt": 0,
+    "retry_succeeded": true,
+    "rows_loaded_on_retry": 4955,
+    "passed": true
+  },
+  "pipeline_runtime_seconds": 5.95
+}

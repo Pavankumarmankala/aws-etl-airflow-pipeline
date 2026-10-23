@@ -1,0 +1,7 @@
+pandas
+numpy
+pyarrow
+pytest
+# Deployment only (not needed for the local runner):
+# apache-airflow
+# boto3
